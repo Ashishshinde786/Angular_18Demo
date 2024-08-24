@@ -1,0 +1,25 @@
+/* book-edit.component.css */
+
+/* Card styling for better visual appeal */
+.card {
+    border-radius: 0.5rem;
+  }
+  
+  .card-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .card-footer {
+    border-top: 1px solid #dee2e6;
+  }
+  
+  /* Form styling */
+  .form-control {
+    border-radius: 0.25rem;
+    box-shadow: none;
+  }
+  
+  .btn {
+    margin-right: 0.5rem;
+  }
+  

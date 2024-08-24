@@ -1,0 +1,29 @@
+/* book-list.component.css */
+
+/* Card styling for better visual appeal */
+.card {
+    border-radius: 0.5rem;
+  }
+  
+  .card-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .card-footer {
+    border-top: 1px solid #dee2e6;
+  }
+  
+  /* List item styling */
+  .list-group-item {
+    border: none;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .list-group-item:last-child {
+    border-bottom: none;
+  }
+  
+  .btn {
+    margin-right: 0.5rem;
+  }
+  

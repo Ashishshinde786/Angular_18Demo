@@ -1,0 +1,27 @@
+/* book-add.component.css */
+
+/* Ensure the card has some padding and shadow for better visual appeal */
+.card {
+    border-radius: 0.5rem;
+  }
+  
+  .card-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .card-footer {
+    border-top: 1px solid #dee2e6;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .btn-secondary {
+    margin-right: 0.5rem;
+  }
+  
+  .btn-primary {
+    margin-top: 1rem;
+  }
+  
